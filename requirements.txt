@@ -1,0 +1,13 @@
+flask
+requests
+urllib2
+sqlite3
+sys
+bs4
+re
+time
+pandas
+unicodedata
+json
+HTMLParser
+csv
